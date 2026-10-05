@@ -1,0 +1,65 @@
+{
+  "name": "Instituto de Investigaciones Lingüísticas y Postgrado",
+  "acronym": "IILP",
+  "university": "Universidad Mayor de San Andrés",
+  "faculty": "Facultad de Humanidades y Ciencias de la Educación",
+  "career": "Carrera de Lingüística e Idiomas",
+  "address": "Av. 6 de Agosto Nro. 2118, La Paz, Bolivia",
+  "phone": "+591 (2) 244-0961",
+  "email": "iilp@umsa.bo",
+  "main_whatsapp": "59163240879",
+  "office_hours": "Lunes a Viernes: 08:30 — 12:30 y 14:30 — 18:30",
+  "map_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d956.3457844629582!2d-68.12837736620904!3d-16.506743999784693!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x915f20648621bdd3%3A0x68fce23450ae5a9e!2sCasa%20Marcelo%20Quiroga%20Santa%20Cruz%20-%20UMSA!5e0!3m2!1ses!2sbo!4v1776875946361!5m2!1ses!2sbo",
+  "social_links": [
+    { "platform": "Facebook", "url": "https://www.facebook.com/iilp.umsa", "icon": "facebook" },
+    { "platform": "WhatsApp", "url": "https://wa.me/59163240879?text=Hola%2C%20quisiera%20información%20sobre%20los%20programas%20del%20IILP", "icon": "message-circle" }
+  ],
+  "mission": "Desarrollar investigación lingüística rigurosa y formar profesionales de postgrado comprometidos con el estudio de las lenguas y la educación intercultural en Bolivia.",
+  "vision": "Ser el referente nacional en estudios lingüísticos y formación avanzada, articulando la diversidad cultural boliviana con estándares académicos internacionales.",
+  "objectives": "Impulsar la producción científica, fortalecer el postgrado, difundir el conocimiento mediante publicaciones y consolidar redes académicas regionales.",
+  "research_lines": [
+    {
+      "id": "rl-01",
+      "title": "Lingüística Teórica",
+      "description": "Estudio de las estructuras formales del lenguaje: fonología, morfología, sintaxis y semántica de las lenguas naturales.",
+      "icon": "book-open"
+    },
+    {
+      "id": "rl-02",
+      "title": "Lingüística Aplicada y Didáctica",
+      "description": "Metodologías de enseñanza y aprendizaje de lenguas, diseño curricular y evaluación lingüística.",
+      "icon": "graduation-cap"
+    },
+    {
+      "id": "rl-03",
+      "title": "Sociolingüística y Lenguas Originarias",
+      "description": "Estudio de las dinámicas sociales del lenguaje, bilingüismo, contacto y vitalidad de las lenguas andinas y amazónicas.",
+      "icon": "users"
+    },
+    {
+      "id": "rl-04",
+      "title": "Análisis del Discurso",
+      "description": "Investigación de las prácticas discursivas en contextos académicos, mediáticos e institucionales.",
+      "icon": "message-square"
+    }
+  ],
+  "authorities": [
+    {
+      "name": "Dr. Carlos Quispe Mamani",
+      "position": "Director del IILP",
+      "photo_url": ""
+    },
+    {
+      "name": "M.Sc. María Elena Gutierrez",
+      "position": "Coordinadora Académica de Postgrado",
+      "photo_url": ""
+    }
+  ],
+  "logos": {
+    "umsa": "https://free-images.com/lg/2a00/umsa_logo_svg.jpg",
+    "faculty": "https://res.cloudinary.com/dgygkqlbv/image/upload/v1776877391/logo_facultad_v6hujz.png",
+    "career": "https://res.cloudinary.com/dgygkqlbv/image/upload/v1776877409/LINGUISTICA_mioqw7.png",
+    "iilp": "https://res.cloudinary.com/dgygkqlbv/image/upload/v1776877702/IILP_-_Editada_mujaj7.png",
+    "hero_background": "https://res.cloudinary.com/dgygkqlbv/image/upload/v1776876903/portada_u9rcdt.png"
+  }
+}

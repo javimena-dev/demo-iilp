@@ -1,0 +1,181 @@
+[
+  {
+    "id": "prog-mae-lta-01",
+    "slug": "maestria-linguistica-teorica-aplicada",
+    "type": "maestria",
+    "title": "Maestría en Lingüística Teórica y Aplicada",
+    "subtitle": "Formación avanzada de investigadores y docentes especializados en ciencias del lenguaje",
+    "version": "Versión V",
+    "degree_awarded": "Magíster Scientiarum en Lingüística Teórica y Aplicada",
+    "modality": "Presencial",
+    "duration_months": 24,
+    "academic_hours": 2400,
+    "credits": 60,
+    "investment_bob": 15000,
+    "registration_fee_bob": 500,
+    "installments_count": 24,
+    "start_date": "2027-03-15",
+    "schedule": "Sábados de 08:00 a 13:00 y de 14:30 a 19:30",
+    "status": "open",
+    "is_featured": true,
+    "cover_image": "https://res.cloudinary.com/dgygkqlbv/image/upload/v1776879396/descarga_wgrxqr.jpg",
+    "banner_image": "https://res.cloudinary.com/dgygkqlbv/image/upload/v1776876903/portada_u9rcdt.png",
+    "brochure_pdf_url": "/docs/maestria-lta-v-convocatoria.pdf",
+    "summary": "La Maestría en Lingüística Teórica y Aplicada del IILP-UMSA forma investigadores y docentes de alto nivel, capaces de generar conocimiento original sobre las lenguas naturales —con énfasis en las lenguas andinas y amazónicas— y de aplicar la ciencia lingüística a la enseñanza de lenguas, la educación intercultural bilingüe, la traducción, la planificación lingüística y el análisis del discurso.",
+    "general_objective": "Formar especialistas de alto nivel académico e investigativo en lingüística teórica y aplicada, capaces de contribuir al desarrollo del conocimiento lingüístico y a la solución de problemas sociolingüísticos en el contexto plurilingüe y multicultural de Bolivia.",
+    "specific_objectives": [
+      "Desarrollar competencias avanzadas en análisis fonológico, morfológico, sintáctico y semántico de las lenguas naturales.",
+      "Aplicar marcos teóricos contemporáneos de la lingüística a la investigación de las lenguas andinas y amazónicas.",
+      "Formar investigadores capaces de producir artículos científicos publicables en revistas indexadas nacionales e internacionales.",
+      "Fortalecer las capacidades docentes para la enseñanza de lenguas en contextos de diversidad lingüística y cultural.",
+      "Contribuir a la formulación de políticas lingüísticas y educativas que promuevan los derechos lingüísticos en Bolivia."
+    ],
+    "applicant_profile": [
+      "Licenciado en Lingüística, Idiomas, Letras, Educación o carreras afines.",
+      "Profesionales con interés en la investigación lingüística y la docencia universitaria.",
+      "Docentes en ejercicio que buscan profundizar en la ciencia del lenguaje.",
+      "Profesionales vinculados a la educación intercultural bilingüe y la revitalización de lenguas."
+    ],
+    "graduate_profile": [
+      "Investigador capaz de diseñar y ejecutar proyectos de investigación lingüística original.",
+      "Docente universitario con sólido dominio teórico y metodológico de la lingüística.",
+      "Especialista en análisis lingüístico aplicable a la educación, la traducción y la planificación de lenguas.",
+      "Profesional con capacidad de publicación científica en revistas especializadas.",
+      "Gestor de proyectos de documentación y revitalización de lenguas originarias."
+    ],
+    "target_audience": [
+      "Licenciados en Lingüística e Idiomas",
+      "Licenciados en Ciencias de la Educación",
+      "Docentes universitarios y de educación superior",
+      "Traductores e intérpretes",
+      "Profesionales de la educación intercultural bilingüe"
+    ],
+    "requirements": [
+      "Título de licenciatura en provisión nacional (fotocopia legalizada).",
+      "Certificado de nacimiento original o fotocopia legalizada.",
+      "Cédula de identidad vigente (fotocopia).",
+      "Hoja de vida documentada.",
+      "Carta de motivación dirigida al Director del IILP.",
+      "Dos fotografías tamaño 4x4 fondo rojo.",
+      "Comprobante de pago de la matrícula."
+    ],
+    "methodology": "El programa combina sesiones presenciales teórico-prácticas, seminarios de investigación, talleres de análisis de datos lingüísticos, trabajos de campo y tutoría individualizada para la elaboración de la tesis de maestría. Se fomenta la participación en eventos académicos y la publicación en la Revista RILTA del IILP.",
+    "contact_whatsapp": "59163240879"
+  },
+  {
+    "id": "prog-dip-eib-01",
+    "slug": "diplomado-educacion-intercultural",
+    "type": "diplomado",
+    "title": "Diplomado en Educación Intercultural",
+    "subtitle": "Actualización pedagógica para contextos multilingües y pluriculturales",
+    "version": "Versión III",
+    "degree_awarded": "Diplomado en Educación Intercultural",
+    "modality": "Virtual",
+    "duration_months": 6,
+    "academic_hours": 800,
+    "credits": 20,
+    "investment_bob": 4000,
+    "registration_fee_bob": 200,
+    "installments_count": 6,
+    "start_date": "2027-04-12",
+    "schedule": "Plataforma virtual con sesiones sincrónicas los miércoles de 19:00 a 21:00",
+    "status": "open",
+    "is_featured": true,
+    "cover_image": "https://res.cloudinary.com/dgygkqlbv/image/upload/v1776879396/descarga_wgrxqr.jpg",
+    "banner_image": "https://res.cloudinary.com/dgygkqlbv/image/upload/v1776876903/portada_u9rcdt.png",
+    "brochure_pdf_url": "/docs/diplomado-eib-iii-convocatoria.pdf",
+    "summary": "El Diplomado en Educación Intercultural del IILP-UMSA brinda actualización pedagógica a docentes, directores y profesionales de la educación que trabajan en contextos multilingües y pluriculturales de Bolivia. Aborda las bases teóricas y metodológicas de la educación intercultural bilingüe, la gestión del aula diversa y la producción de materiales educativos culturalmente pertinentes.",
+    "general_objective": "Actualizar a los participantes en metodologías contemporáneas de educación intercultural bilingüe, fortaleciendo sus competencias para el trabajo pedagógico en contextos de diversidad lingüística y cultural.",
+    "specific_objectives": [
+      "Analizar los fundamentos teóricos de la educación intercultural y la pedagogía crítica.",
+      "Diseñar estrategias didácticas para aulas multilingües y diversas.",
+      "Producir materiales educativos culturalmente pertinentes para contextos bolivianos.",
+      "Evaluar prácticas pedagógicas interculturales desde un enfoque reflexivo."
+    ],
+    "applicant_profile": [
+      "Licenciado en Ciencias de la Educación, Lingüística o carreras afines.",
+      "Docentes en ejercicio en unidades educativas fiscales, privadas o de convenio.",
+      "Profesionales vinculados a organizaciones educativas o culturales.",
+      "Técnicos de educación en municipios y gobernaciones."
+    ],
+    "graduate_profile": [
+      "Docente con capacidad de planificación pedagógica intercultural.",
+      "Profesional con herramientas de evaluación y gestión de aulas diversas.",
+      "Diseñador de materiales educativos para contextos multilingües.",
+      "Facilitador de procesos de formación intercultural."
+    ],
+    "target_audience": [
+      "Docentes de educación primaria y secundaria",
+      "Directores y administrativos de unidades educativas",
+      "Técnicos municipales de educación",
+      "Profesionales de organizaciones educativas y culturales"
+    ],
+    "requirements": [
+      "Título de licenciatura en provisión nacional (fotocopia legalizada).",
+      "Cédula de identidad vigente (fotocopia).",
+      "Hoja de vida resumida.",
+      "Formulario de inscripción completado.",
+      "Comprobante de pago de la matrícula."
+    ],
+    "methodology": "Modalidad 100% virtual a través de plataforma Moodle/Classroom con materiales asíncronos, foros de discusión, actividades prácticas y sesiones sincrónicas semanales. Se incluyen tutorías individuales y un proyecto final aplicado.",
+    "contact_whatsapp": "59163240879"
+  },
+  {
+    "id": "prog-dip-lla-01",
+    "slug": "diplomado-linguistica-lengua-aymara",
+    "type": "diplomado",
+    "title": "Diplomado en Lingüística y Lengua Aymara",
+    "subtitle": "Estudio científico de la lengua aymara: estructura, sociolingüística y revitalización",
+    "version": "Versión II",
+    "degree_awarded": "Diplomado en Lingüística y Lengua Aymara",
+    "modality": "Semipresencial",
+    "duration_months": 6,
+    "academic_hours": 800,
+    "credits": 20,
+    "investment_bob": 4000,
+    "registration_fee_bob": 200,
+    "installments_count": 6,
+    "start_date": "2027-05-10",
+    "schedule": "Sesiones presenciales los sábados de 09:00 a 13:00 y actividades virtuales semanales",
+    "status": "upcoming",
+    "is_featured": false,
+    "cover_image": "https://res.cloudinary.com/dgygkqlbv/image/upload/v1776879396/descarga_wgrxqr.jpg",
+    "banner_image": "https://res.cloudinary.com/dgygkqlbv/image/upload/v1776876903/portada_u9rcdt.png",
+    "brochure_pdf_url": "/docs/diplomado-aymara-ii-convocatoria.pdf",
+    "summary": "El Diplomado en Lingüística y Lengua Aymara del IILP-UMSA ofrece una formación rigurosa en la estructura gramatical, la historia, la sociolingüística y las políticas de revitalización de la lengua aymara. Dirigido a profesionales que trabajan con comunidades aymarohablantes o que investigan las lenguas andinas.",
+    "general_objective": "Formar profesionales con conocimientos sólidos en lingüística aymara, capaces de contribuir a la documentación, enseñanza y revitalización de esta lengua originaria en el contexto boliviano.",
+    "specific_objectives": [
+      "Describir la fonología, morfología y sintaxis de la lengua aymara desde perspectivas lingüísticas contemporáneas.",
+      "Analizar la situación sociolingüística del aymara en Bolivia y la región andina.",
+      "Diseñar propuestas de revitalización y normalización de la lengua aymara.",
+      "Producir materiales didácticos para la enseñanza del aymara como primera y segunda lengua."
+    ],
+    "applicant_profile": [
+      "Licenciado en Lingüística, Idiomas, Educación o carreras afines.",
+      "Docentes que enseñan en comunidades aymarohablantes.",
+      "Profesionales de instituciones vinculadas a la lengua y cultura aymara.",
+      "Investigadores interesados en las lenguas originarias de Bolivia."
+    ],
+    "graduate_profile": [
+      "Especialista en la estructura lingüística del aymara.",
+      "Profesional con capacidad de documentación y descripción de lenguas originarias.",
+      "Docente con herramientas para la enseñanza del aymara como L1 y L2.",
+      "Gestor de proyectos de revitalización lingüística."
+    ],
+    "target_audience": [
+      "Licenciados en Lingüística e Idiomas",
+      "Docentes de lengua aymara en unidades educativas",
+      "Técnicos de educación intercultural bilingüe",
+      "Profesionales de organizaciones culturales y lingüísticas"
+    ],
+    "requirements": [
+      "Título de licenciatura en provisión nacional (fotocopia legalizada).",
+      "Cédula de identidad vigente (fotocopia).",
+      "Hoja de vida resumida.",
+      "Formulario de inscripción completado.",
+      "Comprobante de pago de la matrícula."
+    ],
+    "methodology": "Modalidad semipresencial con sesiones teórico-prácticas los sábados, complementadas con actividades virtuales, análisis de corpus lingüísticos, trabajo de campo en comunidades aymarohablantes y un proyecto final de investigación aplicada.",
+    "contact_whatsapp": "59163240879"
+  }
+]

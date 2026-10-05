@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iilp.umsa.bo/sitemap.xml
