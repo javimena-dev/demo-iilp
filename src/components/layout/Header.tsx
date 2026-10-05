@@ -45,7 +45,7 @@ export default function Header() {
                   isActive
                     ? 'bg-primary-50 text-primary-700'
                     : 'text-gray-700 hover:bg-surface-100 hover:text-primary-700'
-                }`
+                } ${link.to === '/programas' ? 'animate-gentle-bounce inline-block' : ''}`
               }
             >
               {link.label}
@@ -90,7 +90,7 @@ export default function Header() {
                     isActive
                       ? 'bg-primary-50 text-primary-700'
                       : 'text-gray-700 hover:bg-surface-100'
-                  }`
+                  } ${link.to === '/programas' ? 'animate-gentle-bounce inline-block' : ''}`
                 }
               >
                 {link.label}

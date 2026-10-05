@@ -111,7 +111,6 @@
   }
 
   .card-program-hover:hover {
-    transform: translateY(-9px) scale(1.012) !important;
     box-shadow: 0 22px 35px -10px rgba(15, 71, 148, 0.16), 0 12px 20px -8px rgba(244, 182, 61, 0.18);
     border-color: rgba(244, 182, 61, 0.65);
   }
